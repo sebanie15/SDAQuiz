@@ -1,0 +1,2 @@
+# Description
+SDAQuiz is a web application that allows you to conduct a Quiz. The user selects how many questions the quiz is to consist of, determines the level of difficulty and selects a category. On this basis, the program generates a set of questions for the player. Each of them is presented on the browser screen. After answering them, the game is over and the player sees his score.
